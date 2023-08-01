@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on projects
 
-- 💬 Talk to me about Software Development, Star Wars and nerd stuff in general
+- 💬 Talk to me about Software Development, Star Wars, mangas and nerd stuff in general
 
 <h2>My Skills</h2>
 <a href="https://github.com/guilhermevieiracode?tab=repositories&q=&type=&language=html&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' title="HTML"> </a>
